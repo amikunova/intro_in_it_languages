@@ -25,3 +25,13 @@ d1 = 6;
 double quotient2 = i1 / d1;
 Console.WriteLine(quotient2);
 
+int a, b, c, d;
+a = 3;
+b = 7;
+c = 1;
+d = 4;
+
+double sumx = ((double) a * b) / (c + d);
+System.Console.WriteLine(sumx);
+    
+
