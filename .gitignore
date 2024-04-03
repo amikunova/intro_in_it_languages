@@ -1,1 +1,5 @@
 /.idea/
+.DS_Store
+/Lesson1/Task1/obj/*
+/Lesson1/Task1/bin/*
+/Lesson1/Task1/.DS_Store
