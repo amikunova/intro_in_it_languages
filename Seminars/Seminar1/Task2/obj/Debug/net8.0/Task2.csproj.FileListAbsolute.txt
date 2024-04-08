@@ -1,0 +1,15 @@
+/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Seminars/Seminar1/Task2/bin/Debug/net8.0/Task2
+/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Seminars/Seminar1/Task2/bin/Debug/net8.0/Task2.deps.json
+/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Seminars/Seminar1/Task2/bin/Debug/net8.0/Task2.runtimeconfig.json
+/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Seminars/Seminar1/Task2/bin/Debug/net8.0/Task2.dll
+/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Seminars/Seminar1/Task2/bin/Debug/net8.0/Task2.pdb
+/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Seminars/Seminar1/Task2/obj/Debug/net8.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Seminars/Seminar1/Task2/obj/Debug/net8.0/Task2.AssemblyInfoInputs.cache
+/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Seminars/Seminar1/Task2/obj/Debug/net8.0/Task2.AssemblyInfo.cs
+/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Seminars/Seminar1/Task2/obj/Debug/net8.0/Task2.csproj.CoreCompileInputs.cache
+/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Seminars/Seminar1/Task2/obj/Debug/net8.0/Task2.sourcelink.json
+/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Seminars/Seminar1/Task2/obj/Debug/net8.0/Task2.dll
+/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Seminars/Seminar1/Task2/obj/Debug/net8.0/refint/Task2.dll
+/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Seminars/Seminar1/Task2/obj/Debug/net8.0/Task2.pdb
+/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Seminars/Seminar1/Task2/obj/Debug/net8.0/Task2.genruntimeconfig.cache
+/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Seminars/Seminar1/Task2/obj/Debug/net8.0/ref/Task2.dll
