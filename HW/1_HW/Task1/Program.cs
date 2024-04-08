@@ -14,7 +14,7 @@ if (firstNumber > secondNumber)
 { 
     Console.WriteLine("Первое число больше второго");
 }
-else
+if 
 { 
     Console.WriteLine("Второе число больше первого");
 }
