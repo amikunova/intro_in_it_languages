@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Lesson1/Task3/Task3.csproj",
+      "projectUniqueName": "/Users/anastasia/Desktop/work_gb/intro_in_it_languages/Lessons/Lesson1/Task3/Task3.csproj",
       "projectName": "Task3",
-      "projectPath": "/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Lesson1/Task3/Task3.csproj",
+      "projectPath": "/Users/anastasia/Desktop/work_gb/intro_in_it_languages/Lessons/Lesson1/Task3/Task3.csproj",
       "packagesPath": "/Users/anastasia/.nuget/packages/",
-      "outputPath": "/Users/anastasia/Desktop/Знакомство с языками программирования (лекции)/intro_in_it_languages/Lesson1/Task3/obj/",
+      "outputPath": "/Users/anastasia/Desktop/work_gb/intro_in_it_languages/Lessons/Lesson1/Task3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/anastasia/.nuget/NuGet/NuGet.Config"

@@ -11,10 +11,11 @@ Console.Write("Введите второе число: ");
 int secondNumber = Convert.ToInt32(Console.ReadLine());
 
 if (firstNumber > secondNumber)
-{ 
+{
     Console.WriteLine("Первое число больше второго");
 }
-if 
-{ 
+
+if
+{
     Console.WriteLine("Второе число больше первого");
 }
