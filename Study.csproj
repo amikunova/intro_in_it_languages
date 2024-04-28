@@ -8,7 +8,51 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="HW\2_HW\Task1\" />
+    <Folder Include="HW\2_HW\Task2\" />
+    <Folder Include="HW\2_HW\Task3\" />
+    <Folder Include="HW\2_HW\Task4\" />
+    <Folder Include="HW\3_HW\Task1\" />
+    <Folder Include="HW\3_HW\Task2\" />
+    <Folder Include="HW\4_HW\Task1\" />
+    <Folder Include="HW\4_HW\Task2\" />
+    <Folder Include="HW\4_HW\Task3\" />
+    <Folder Include="HW\5_HW\Task1\" />
+    <Folder Include="HW\5_HW\Task2\" />
+    <Folder Include="HW\5_HW\Task3\" />
+    <Folder Include="HW\6_HW\Task1\" />
+    <Folder Include="HW\6_HW\Task2\" />
+    <Folder Include="HW\6_HW\Task3\" />
+    <Folder Include="HW\7_HW\Task1\" />
+    <Folder Include="HW\7_HW\Task2\" />
+    <Folder Include="HW\7_HW\Task3\" />
     <Folder Include="Lessons\Lesson2\Task4\" />
+    <Folder Include="Lessons\Lesson3\Task1\" />
+    <Folder Include="Lessons\Lesson3\Task2\" />
+    <Folder Include="Lessons\Lesson3\Task3\" />
+    <Folder Include="Lessons\Lesson4\Task1\" />
+    <Folder Include="Lessons\Lesson4\Task2\" />
+    <Folder Include="Seminars\Seminar3\Task1\" />
+    <Folder Include="Seminars\Seminar3\Task2\" />
+    <Folder Include="Seminars\Seminar3\Task3\" />
+    <Folder Include="Seminars\Seminar3\Task4\" />
+    <Folder Include="Seminars\Seminar4\Task1\" />
+    <Folder Include="Seminars\Seminar4\Task2\" />
+    <Folder Include="Seminars\Seminar4\Task3\" />
+    <Folder Include="Seminars\Seminar4\Task4\" />
+    <Folder Include="Seminars\Seminar4\Task5\" />
+    <Folder Include="Seminars\Seminar5\Task1.1\" />
+    <Folder Include="Seminars\Seminar5\Task1\" />
+    <Folder Include="Seminars\Seminar5\Task2\" />
+    <Folder Include="Seminars\Seminar5\Task3\" />
+    <Folder Include="Seminars\Seminar5\Task4\" />
+    <Folder Include="Seminars\Seminar6\Task1\" />
+    <Folder Include="Seminars\Seminar6\Task2\" />
+    <Folder Include="Seminars\Seminar6\Task3\" />
+    <Folder Include="Seminars\Seminar7\Task1\" />
+    <Folder Include="Seminars\Seminar7\Task2\" />
+    <Folder Include="Seminars\Seminar7\Task3\" />
+    <Folder Include="Snake_monster_game\Round_1\" />
   </ItemGroup>
 
 </Project>
